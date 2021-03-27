@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".activity.AddEditNoteActivity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Test Result"
+        android:textStyle="bold"
+        android:inputType="text" />
+    <EditText
+        android:id="@+id/editTextRESULT"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Test Reuslt"
+        android:inputType="text" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Test Date"
+        android:textStyle="bold"
+        android:inputType="text" />
+    <EditText
+        android:id="@+id/editTextDATE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Test Date"
+        android:inputType="textMultiLine" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Test Route"
+        android:textStyle="bold"
+        android:inputType="text" />
+    <EditText
+        android:id="@+id/editroute"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Test Route" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Test Type"
+        android:textStyle="bold"
+        android:inputType="text" />
+    <EditText
+        android:id="@+id/test_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Test Type" />
+
+</LinearLayout>

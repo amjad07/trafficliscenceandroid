@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AparnaAnoop_COMP304Sec004_Lab4_Ex1</string>
+    <string name="edit_info">Edit Traffic license info</string>
+    <string name="add_note">Add User</string>
+    <string name="view">View license Info</string>
+    <string name="main_nv">Main Navigation</string>
+    <string name="edit_infor">Edit license Info</string>
+    <string name="dlt_infor">Delete license Info</string>
+    <string name="view_liscenes_information">View Traffic license info</string>
+    <string name="edit_liscenes_information">Edit Traffic license info</string>
+    <string name="click_edit_liscenes_information">Click to Edit Traffic license info</string>
+    <string name="dlt_liscenes_information">Delete Traffic license info</string>
+    <string name="swipe_dlt_liscenes_information">Swipe to Delete Traffic license info</string>
+    <string name="examin_id">Enter the ExaminerID</string>
+    <string name="submit">Submit</string>
+</resources>
